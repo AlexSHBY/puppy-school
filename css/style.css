@@ -279,6 +279,12 @@ body{
     }
 }
 @media(max-width:750px){
+    .main-container{
+        margin: auto;
+        max-width: 1440px;
+        width: 100%;
+        background-color: #FEF1F4;
+    }
     .container-preview{
         background-size: 80%;
     }
