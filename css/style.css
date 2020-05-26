@@ -329,6 +329,9 @@ body{
     }
 }
 @media(max-width:550px){
+    .container-preview{
+        background-size: 120%;
+    }
     .right-side{
         flex-direction: column;
     }
